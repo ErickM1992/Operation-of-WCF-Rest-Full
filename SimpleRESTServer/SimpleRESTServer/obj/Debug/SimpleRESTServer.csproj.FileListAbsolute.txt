@@ -1,0 +1,17 @@
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\SimpleRESTServer.dll.config
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\SimpleRESTServer.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\SimpleRESTServer.pdb
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\Newtonsoft.Json.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\System.Net.Http.Formatting.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\System.Web.Http.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\System.Web.Http.WebHost.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\Newtonsoft.Json.xml
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\System.Net.Http.Formatting.xml
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\System.Web.Http.xml
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\bin\System.Web.Http.WebHost.xml
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\obj\Debug\SimpleRESTServer.csprojResolveAssemblyReference.cache
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\obj\Debug\SimpleRESTServer.csproj.CoreCompileInputs.cache
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\obj\Debug\SimpleRESTServer.dll
+C:\Users\ErickM\Documents\GitHub\Operation-of-WCF-Rest-Full\SimpleRESTServer\SimpleRESTServer\obj\Debug\SimpleRESTServer.pdb
