@@ -4,21 +4,118 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using SimpleRESTServer.Models;
 
 namespace SimpleRESTServer.Controllers
 {
     public class PersonController : ApiController
     {
+
+        List<Person> Persons = new List<Person>();
+        //Definir que persona se manda.
+        Person personfind = new Person();
+
         // GET: api/Person
-        public IEnumerable<string> Get()
+        public IEnumerable<Person> Get()
         {
-            return new string[] { "person1", "person2" };
+
+
+            Person per1 = new Person
+            {
+                ID = 1,
+                LastName = "Moreira",
+                FirstName = "Erick",
+                PayRate = 254.32,
+                StartDay = DateTime.Now,
+                EndDay = DateTime.Now
+            };
+
+
+
+            Persons.Add(per1);
+
+            Person per2 = new Person
+            {
+                ID = 2,
+                LastName = "Marin",
+                FirstName = "Cortez",
+                PayRate = 3012.32,
+                StartDay = DateTime.Now,
+                EndDay = DateTime.Now
+            };
+
+            Persons.Add(per2);
+
+            Person per3 = new Person
+            {
+                ID = 3,
+                LastName = "Gonzales",
+                FirstName = "Ronberto",
+                PayRate = 145.32,
+                StartDay = DateTime.Now,
+                EndDay = DateTime.Now
+            };
+
+            Persons.Add(per3);
+
+
+            return Persons;
+
+           
         }
 
         // GET: api/Person/5
-        public string Get(int id)
+        public Person Get(int id)
         {
-            return "some person";
+
+            Person per1 = new Person
+            {
+                ID = 1,
+                LastName = "Moreira",
+                FirstName = "Erick",
+                PayRate = 254.32,
+                StartDay = DateTime.Now,
+                EndDay = DateTime.Now
+            };
+
+
+
+            Persons.Add(per1);
+
+            Person per2 = new Person
+            {
+                ID = 2,
+                LastName = "Marin",
+                FirstName = "Cortez",
+                PayRate = 3012.32,
+                StartDay = DateTime.Now,
+                EndDay = DateTime.Now
+            };
+
+            Persons.Add(per2);
+
+            Person per3 = new Person
+            {
+                ID = 3,
+                LastName = "Gonzales",
+                FirstName = "Ronberto",
+                PayRate = 145.32,
+                StartDay = DateTime.Now,
+                EndDay = DateTime.Now
+            };
+
+            Persons.Add(per3);
+
+            foreach (var item in Persons)
+            {
+                if (item.ID == id)
+                {
+                    return item;
+                }
+
+            }
+
+            return personfind;
         }
 
         // POST: api/Person
